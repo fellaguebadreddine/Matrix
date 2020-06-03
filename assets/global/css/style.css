@@ -1,0 +1,22 @@
+.delete{
+	  background-color: #F3565D; /* red */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding: 7px 14px;
+    touch-action: manipulation;
+    cursor: pointer;
+    border-radius: 2px;
+    transition-duration: 0.4s;
+    font-size: 14px;
+    border-radius: 4px !important;
+
+
+}
+.delete:hover {
+    background-color: #e2161d; /* Green */
+    color: white;
+    border-radius: 4px !important;
+}
